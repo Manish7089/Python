@@ -1,3 +1,3 @@
 # Python
 This all code is written by MANISH BALA
-runs all code in pycharme.
+and runs the all code in pycharme.
