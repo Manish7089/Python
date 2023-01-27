@@ -1,0 +1,5 @@
+def celcius(a) :
+    return (a*(9/5))+32
+c=float(input("Enter celcius : "))
+f=celcius(c)
+print(str(f))
